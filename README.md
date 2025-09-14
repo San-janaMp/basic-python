@@ -1,4 +1,4 @@
-# Basic Python 🐍
+# Basic Python 
 
 This repository contains my Python learning journey, starting with basic concepts and practice problems, and gradually moving into intermediate and advanced topics. It covers:
 
